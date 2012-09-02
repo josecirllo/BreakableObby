@@ -1,0 +1,4 @@
+config:
+  radius: 3
+  health: 150
+  damage: 50
